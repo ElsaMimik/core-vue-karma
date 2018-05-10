@@ -1,6 +1,6 @@
 import { expect } from 'chai'
 import { shallow } from './../../../node_modules/@vue/test-utils'
-import Counter from './../component/Counter.vue'
+import Counter from './../components/report/Counter.vue'
 
 describe('Counter.vue', () => {
   it('increments count when button is clicked', () => {
