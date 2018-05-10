@@ -1,0 +1,11 @@
+D:\2018-05-10\core-vue-karma\core-vue-karma\bin\Debug\netcoreapp2.0\core-vue-karma.deps.json
+D:\2018-05-10\core-vue-karma\core-vue-karma\bin\Debug\netcoreapp2.0\core-vue-karma.runtimeconfig.json
+D:\2018-05-10\core-vue-karma\core-vue-karma\bin\Debug\netcoreapp2.0\core-vue-karma.runtimeconfig.dev.json
+D:\2018-05-10\core-vue-karma\core-vue-karma\bin\Debug\netcoreapp2.0\core-vue-karma.dll
+D:\2018-05-10\core-vue-karma\core-vue-karma\bin\Debug\netcoreapp2.0\core-vue-karma.pdb
+D:\2018-05-10\core-vue-karma\core-vue-karma\obj\Debug\netcoreapp2.0\core-vue-karma.csprojResolveAssemblyReference.cache
+D:\2018-05-10\core-vue-karma\core-vue-karma\obj\Debug\netcoreapp2.0\core-vue-karma.csproj.CoreCompileInputs.cache
+D:\2018-05-10\core-vue-karma\core-vue-karma\obj\Debug\netcoreapp2.0\core-vue-karma.AssemblyInfoInputs.cache
+D:\2018-05-10\core-vue-karma\core-vue-karma\obj\Debug\netcoreapp2.0\core-vue-karma.AssemblyInfo.cs
+D:\2018-05-10\core-vue-karma\core-vue-karma\obj\Debug\netcoreapp2.0\core-vue-karma.dll
+D:\2018-05-10\core-vue-karma\core-vue-karma\obj\Debug\netcoreapp2.0\core-vue-karma.pdb
